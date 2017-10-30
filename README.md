@@ -9,8 +9,8 @@ Welcome to Linear Regression Anlysis with R (MSAN 601), a required course in the
 
 [**Course Notes**]
 
-Simple Linear Regression(https://github.com/paulintrevado/Linear-Regression-Analysis-with-R/blob/master/msan601_slr.pdf)
+[Simple Linear Regression](https://github.com/paulintrevado/Linear-Regression-Analysis-with-R/blob/master/msan601_slr.pdf)
 
-Multiple Linear Regression()
+[Multiple Linear Regression]()
 
-Non-Linear Regression()
+[Non-Linear Regression]()
